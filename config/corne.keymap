@@ -19,6 +19,17 @@
 };
 
 / {
+
+// 组合键定义：必须在根节点 / 下，keymap 节点外
+    combos {
+        compatible = "zmk,combos";
+        combo_bt_layer {
+            timeout-ms = <50>;
+            key-positions = <25 26 27>; // Z, X, C 键位编号
+            bindings = <&mo 3>;        // 指向 layer 索引 3 (即 bt_layer)
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
