@@ -17,7 +17,7 @@
 &led_strip {
     chain-length = <27>;
 };
-
+ 
 / {
 
 // 组合键定义：必须在根节点 / 下，keymap 节点外
@@ -25,8 +25,13 @@
         compatible = "zmk,combos";
         combo_bt_layer {
             timeout-ms = <50>;
-            key-positions = <25 26 27>; // Z, X, C 键位编号
+            key-positions = <25 26>; // Z, X, C 键位编号
             bindings = <&mo 3>;        // 指向 layer 索引 3 (即 bt_layer)
+        };
+        combo_esc {
+            timeout-ms = <50>;
+            key-positions = <0 1>;
+            bindings = <&kp ESC>;
         };
     };
 
