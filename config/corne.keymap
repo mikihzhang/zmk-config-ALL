@@ -25,12 +25,12 @@
         compatible = "zmk,combos";
         combo_bt_layer {
             timeout-ms = <50>;
-            key-positions = <25 26>; // Z, X, C 键位编号
+            key-positions = <24 25 26>; // Z, X, C 键位编号
             bindings = <&mo 1>;        // 指向 layer 索引 3 (即 bt_layer)
         };
         combo_nm_layer {
             timeout-ms = <50>;
-            key-positions = <36 37>; // Z, X, C 键位编号
+            key-positions = <12 13 14>; // Z, X, C 键位编号
             bindings = <&mo 2>;        // 指向 layer 索引 3 (即 bt_layer)
         };
 
@@ -83,7 +83,7 @@
 &kp TAB    &kp EXCL  &kp AT  &kp N7    &kp N8    &kp N9    &kp CARET  &kp AMPS   &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &kp BSPC
 &kp LCTRL  &trans    &trans  &kp N4    &kp N5    &kp N6    &kp MINUS  &kp EQUAL  &kp LBKT         &kp RBKT  &kp BSLH  &kp GRAVE
 &kp LSHFT  &trans    &trans  &kp N1    &kp N2    &kp N3    &kp UNDER  &kp PLUS   &kp LBRC         &kp RBRC  &kp PIPE  &kp TILDE
-                             &kp LGUI   &studio_unlock    &kp N0      &kp RET    &studio_unlock     &kp RALT
+                             &kp N0    &kp DOT     &kp RET      &kp RET    &studio_unlock     &kp RALT
             >;
         };
         

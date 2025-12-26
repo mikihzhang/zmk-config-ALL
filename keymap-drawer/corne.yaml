@@ -82,14 +82,14 @@ layers:
   - '}'
   - '|'
   - '~'
-  - $$mdi:apple-keyboard-command$$
-  - '&studio_unlock'
   - '0'
+  - .
+  - ⏎
   - ⏎
   - {t: '&studio_unlock', type: held}
   - $$mdi:apple-keyboard-option$$
 combos:
-- p: [25, 26]
+- p: [24, 25, 26]
   k: LOW
-- p: [36, 37]
+- p: [12, 13, 14]
   k: RAI

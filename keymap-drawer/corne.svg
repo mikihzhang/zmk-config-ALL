@@ -406,14 +406,18 @@ rect.held, rect.combo.held {
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="-9" y="-9" height="18" width="18.0" class="key tap glyph mdi:apple-keyboard-option"/>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<path d="M84,156 l-37,3" class="combo"/>
+<path d="M84,156 l38,-6" class="combo"/>
+<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
 <a href="#LOW">
-<text x="112" y="154" class="combo tap layer-activator">LOW</text>
+<text x="84" y="156" class="combo tap layer-activator">LOW</text>
 </a></g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="241" y="196" width="28" height="26" class="combo"/>
+<path d="M84,100 l-37,3" class="combo"/>
+<path d="M84,100 l38,-6" class="combo"/>
+<rect rx="6" ry="6" x="70" y="87" width="28" height="26" class="combo"/>
 <a href="#RAI">
-<text x="255" y="209" class="combo tap layer-activator">RAI</text>
+<text x="84" y="100" class="combo tap layer-activator">RAI</text>
 </a></g>
 </g>
 </g>
@@ -612,14 +616,18 @@ rect.held, rect.combo.held {
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="-9" y="-9" height="18" width="18.0" class="key tap glyph mdi:apple-keyboard-option"/>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<path d="M84,156 l-37,3" class="combo"/>
+<path d="M84,156 l38,-6" class="combo"/>
+<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
 <a href="#LOW">
-<text x="112" y="154" class="combo tap layer-activator">LOW</text>
+<text x="84" y="156" class="combo tap layer-activator">LOW</text>
 </a></g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="241" y="196" width="28" height="26" class="combo"/>
+<path d="M84,100 l-37,3" class="combo"/>
+<path d="M84,100 l38,-6" class="combo"/>
+<rect rx="6" ry="6" x="70" y="87" width="28" height="26" class="combo"/>
 <a href="#RAI">
-<text x="255" y="209" class="combo tap layer-activator">RAI</text>
+<text x="84" y="100" class="combo tap layer-activator">RAI</text>
 </a></g>
 </g>
 </g>
@@ -774,15 +782,15 @@ rect.held, rect.combo.held {
 </g>
 <g transform="translate(224, 205)" class="key keypos-36">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<use href="#mdi:apple-keyboard-command" xlink:href="#mdi:apple-keyboard-command" x="-9" y="-9" height="18" width="18.0" class="key tap glyph mdi:apple-keyboard-command"/>
+<text x="0" y="0" class="key tap">0</text>
 </g>
 <g transform="translate(286, 213) rotate(15.0)" class="key keypos-37">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 60%">&amp;studio_u…</tspan></text>
+<text x="0" y="0" class="key tap">.</text>
 </g>
 <g transform="translate(351, 224) rotate(30.0)" class="key keypos-38">
 <rect rx="6" ry="6" x="-26" y="-40" width="52" height="80" class="key"/>
-<text x="0" y="0" class="key tap">0</text>
+<text x="0" y="0" class="key tap">⏎</text>
 </g>
 <g transform="translate(489, 224) rotate(-30.0)" class="key keypos-39">
 <rect rx="6" ry="6" x="-26" y="-40" width="52" height="80" class="key"/>
@@ -797,14 +805,18 @@ rect.held, rect.combo.held {
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="-9" y="-9" height="18" width="18.0" class="key tap glyph mdi:apple-keyboard-option"/>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<path d="M84,156 l-37,3" class="combo"/>
+<path d="M84,156 l38,-6" class="combo"/>
+<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
 <a href="#LOW">
-<text x="112" y="154" class="combo tap layer-activator">LOW</text>
+<text x="84" y="156" class="combo tap layer-activator">LOW</text>
 </a></g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="241" y="196" width="28" height="26" class="combo"/>
+<path d="M84,100 l-37,3" class="combo"/>
+<path d="M84,100 l38,-6" class="combo"/>
+<rect rx="6" ry="6" x="70" y="87" width="28" height="26" class="combo"/>
 <a href="#RAI">
-<text x="255" y="209" class="combo tap layer-activator">RAI</text>
+<text x="84" y="100" class="combo tap layer-activator">RAI</text>
 </a></g>
 </g>
 </g>
