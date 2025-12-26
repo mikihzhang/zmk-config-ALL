@@ -411,9 +411,9 @@ rect.held, rect.combo.held {
 <text x="112" y="154" class="combo tap layer-activator">LOW</text>
 </a></g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="546" y="138" width="28" height="26" class="combo"/>
+<rect rx="6" ry="6" x="241" y="196" width="28" height="26" class="combo"/>
 <a href="#RAI">
-<text x="560" y="150" class="combo tap layer-activator">RAI</text>
+<text x="255" y="209" class="combo tap layer-activator">RAI</text>
 </a></g>
 </g>
 </g>
@@ -617,9 +617,9 @@ rect.held, rect.combo.held {
 <text x="112" y="154" class="combo tap layer-activator">LOW</text>
 </a></g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="546" y="138" width="28" height="26" class="combo"/>
+<rect rx="6" ry="6" x="241" y="196" width="28" height="26" class="combo"/>
 <a href="#RAI">
-<text x="560" y="150" class="combo tap layer-activator">RAI</text>
+<text x="255" y="209" class="combo tap layer-activator">RAI</text>
 </a></g>
 </g>
 </g>
@@ -802,9 +802,9 @@ rect.held, rect.combo.held {
 <text x="112" y="154" class="combo tap layer-activator">LOW</text>
 </a></g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="546" y="138" width="28" height="26" class="combo"/>
+<rect rx="6" ry="6" x="241" y="196" width="28" height="26" class="combo"/>
 <a href="#RAI">
-<text x="560" y="150" class="combo tap layer-activator">RAI</text>
+<text x="255" y="209" class="combo tap layer-activator">RAI</text>
 </a></g>
 </g>
 </g>

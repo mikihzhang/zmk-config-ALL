@@ -91,5 +91,5 @@ layers:
 combos:
 - p: [25, 26]
   k: LOW
-- p: [30, 31]
+- p: [36, 37]
   k: RAI
