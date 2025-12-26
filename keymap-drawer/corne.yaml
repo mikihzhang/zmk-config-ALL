@@ -46,12 +46,12 @@ layers:
   - {t: ▽, type: trans}
   - $$mdi:apple-keyboard-option$$
   RAI:
-  - ↹
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '%'
+  - BT CLR
+  - BT 1
+  - BT 2
+  - BT 3
+  - BT 4
+  - BT 5
   - ^
   - AMPS
   - KP MULTIPLY
@@ -114,8 +114,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
-  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -133,7 +133,4 @@ layers:
   - {t: ▽, type: trans}
 combos:
 - p: [25, 26]
-  k: BT
-- p: [0, 1]
-  k: Esc
-  draw_separate: true
+  k: RAI
